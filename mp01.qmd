@@ -1,0 +1,9 @@
+---
+title: "STA 9750 Mini-Project #01 — Netflix Top 10"
+author: "Ueku"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
+---

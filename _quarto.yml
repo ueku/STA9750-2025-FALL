@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
